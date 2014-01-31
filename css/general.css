@@ -1,5 +1,5 @@
 html {
-    font-family:sans-serif
+    font-family:sans-serif;
 }
 
 body {
@@ -14,7 +14,7 @@ h1 {
 }
 
 h2 {
-    color: #7FFFD4
+    color: #7FFFD4;
 }
 
 p,
@@ -50,11 +50,11 @@ li {
 }
 
 ol li:first-child {
-    background-color: #F5DEB3
+    background-color: #F5DEB3;
 }
 
 ol li:last-child {
-    background-color: #FFC0CB	 
+    background-color: #FFC0CB;	 
 }
 
 body {
